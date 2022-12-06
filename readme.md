@@ -14,8 +14,8 @@ Now I've decided it is time for me to chase new adventures and follow my other p
 <h1 align="left" style="margin-top:50px"> Recent projects on github </h1>
 <section align="left" style="margin-bottom:50px">
 
-<a href="https://github.com/bobse/d_watchlist" target="_blank" rel="noopener noreferrer"><img src="./assets/directors.png" style="max-width:500px" alt="Directors Cut"></a>
-<a href="https://github.com/bobse/stocks_portfolio" target="_blank" rel="noopener noreferrer"><img src="./assets/mock.png" style="max-width:500px" alt="Stock Portfolio"></a>
+<a href="https://github.com/bobse/d_watchlist" target="_blank" rel="noopener noreferrer"><img src="./assets/directors.png" width="400px" alt="Directors Cut"></a><br />
+<a href="https://github.com/bobse/stocks_portfolio" target="_blank" rel="noopener noreferrer"><img src="./assets/mock.png" width="400px"  alt="Stock Portfolio"></a>
 
 </section>
 
