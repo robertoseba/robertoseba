@@ -1,15 +1,5 @@
 <h1 align="left"> About me </h1>
-<p>I've always been a technology enthusiast and since high school (technician in Computer Programming) I've been working on personal projects and developing my tech skills. 
-I've customized Wordpress websites using PHP, designed simple IOT devices for my home using Arduino and esp8266 with custom 3d printed cases and built python scrapers and simple apps to optimize tasks like searching for an airline ticket or investment options.</p>
-<p>
-Lately I've been focusing on Backend Development. (Python/Django and also NodeJs)
-</p>
-<p>
-I've worked as a professional photographer for the past 13 years working in SP and abroad, for magazines and brands from Brazil and internationally.
-</p>
-<p>
-Now I've decided it is time for me to chase new adventures and follow my other passion working as a software developer.
-</p>
+<p>I'm a backend developer at Melhor Envios, a leading tech company in the logistics industry. At Melhor Envios, we provide a comprehensive platform that simplifies shipping processes for businesses and individuals alike. With over 1 million users on our platform, we strive to optimize shipping operations, reduce costs, and enhance overall efficiency. My work lies in utilizing languages like Typescript/Javascript, Python, PHP/Laravel, and  to build robust and scalable solutions that contribute to the seamless functioning of the platform.</p>
 
 <h1 align="left" style="margin-top:50px"> Recent projects on github </h1>
 <section align="left" style="margin-bottom:50px">
