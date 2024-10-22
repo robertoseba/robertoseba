@@ -5,7 +5,7 @@
 <section align="left" style="margin-bottom:50px">
 
 <a href="https://directorscut.robertoseba.com/about" target="_blank" rel="noopener noreferrer"><img src="./assets/directors.png" width="400px" alt="Directors Cut"></a>
-
+<a href="https://github.com/robertoseba/gennie"><img src="https://github.com/robertoseba/gennie/blob/f3767901b9a25fffba9ce4baa12c91ab6729222e/docs/images/awk.gif" width="400px" alt="Gennie Cli"></a>
 </section>
 
 <h1 align="left" style="margin-top:50px"> Backend </h1>
@@ -19,6 +19,9 @@
   <br />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
+
 
 </section>
 
