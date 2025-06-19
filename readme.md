@@ -7,6 +7,8 @@
 
 <h1 align="left" style="margin-top:50px"> Backend </h1>
 <section align="left" style="margin-bottom:50px">
+  <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Nestjs-FF0000?style=for-the-badge&logo=NestJs&logoColor=white" />
@@ -16,8 +18,6 @@
   <br />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
 
 
 </section>
