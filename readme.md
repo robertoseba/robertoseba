@@ -1,6 +1,3 @@
-<h1 align="left"> About me </h1>
-<p>I'm a backend developer at Melhor Envios, a leading tech company in the logistics industry. At Melhor Envios, we provide a comprehensive platform that simplifies shipping processes for businesses and individuals alike. With over 1 million users on our platform, we strive to optimize shipping operations, reduce costs, and enhance overall efficiency. My work lies in utilizing languages like Typescript/Javascript, Python, PHP/Laravel, and  to build robust and scalable solutions that contribute to the seamless functioning of the platform.</p>
-
 <h1 align="left" style="margin-top:50px"> Personal projects </h1>
 <section align="left" style="margin-bottom:50px">
 
